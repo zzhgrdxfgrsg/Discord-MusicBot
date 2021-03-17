@@ -6,6 +6,7 @@ module.exports = {
         description: "To show all commands",
         usage: "[command]",
         aliases: ["commands", "help me", "pls help"]
+        {SUPPORT}(https://discord.gg/5E4MZGVT)
     },
 
     run: async function(client, message, args){
